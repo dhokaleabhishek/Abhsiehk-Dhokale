@@ -6,22 +6,22 @@ I have done specializing in Python development and back-end technologies with a 
 My key skills include creating secure systems, managing databases, and collaborating effectively in team-oriented projects using Agile/Scrum methodologies. 
 Check out my projects and feel free to connect!
 <br><br>
-🏢 Internship Experience :<\t>
-Persistent pvt Ltd. (June 2023)<br><\t>
---> Focused on Java and MySQL for back-end development and database management.<br><\t>
---> Gained hands-on experience in integrating Java applications with MySQL databases.<br><\t>
---> Worked on problem-solving and optimizing database queries.<br><\t>
+🏢 Internship Experience :<br>
+ Persistent pvt Ltd. (June 2023)<br>
+  --> Focused on Java and MySQL for back-end development and database management.<br>
+  --> Gained hands-on experience in integrating Java applications with MySQL databases.<br>
+  --> Worked on problem-solving and optimizing database queries.<br>
 
-💻 Programming Languages & Technologies : <br><\t>
-Python (Expert),  Java (Intermediate),  C (Intermediate), SQL(Expert),  MySQL(Expert),  DBMS,  HTML,  CSS
+💻 Programming Languages & Technologies : <br
+  Python (Expert),  Java (Intermediate),  C (Intermediate), SQL(Expert),  MySQL(Expert),  DBMS,  HTML,  CSS
 <br><br>
 🔧 Tools : <br>
- <\t>Git, PyCharm, VS Code, Jupyter Notebook, Eclipse
+   Git, PyCharm, VS Code, Jupyter Notebook, Eclipse
 <br><br>
-📚 Latest Education<br><\t>
-B.E. in Computer Science & Engineering<br><\t>
-SKN Sinhgad Institute of Technology & Science, Pune<br><\t>
-Graduation Year: 2024 | CGPA: 8.43
+📚 Latest Education<br>
+  B.E. in Computer Science & Engineering<br>
+  SKN Sinhgad Institute of Technology & Science, Pune<br>
+  Graduation Year: 2024 | CGPA: 8.43
 
 
 
